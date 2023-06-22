@@ -11,7 +11,7 @@
   
    I've worked with the following technologies:
   <div>
-  <img src="astro.svg"height="40" />
+  <img src="https://astro.js.org/astro.png"height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
