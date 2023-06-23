@@ -5,7 +5,7 @@
 
   <h4>I'm a Junior Web Developer and Junior SEO Specialist. 👨‍💻<br>I'm working on some interesting projects, soooo don't forget to check my profile sometimes!</h4>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dvd225&show_icons=true&theme=aura_dark&layout=compact&title_color=#FFF&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dvd225&show_icons=true&theme=aura&layout=compact&title_color=#FFF&hide_border=true)
   
 
   
